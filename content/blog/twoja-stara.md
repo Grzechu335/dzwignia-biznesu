@@ -3,7 +3,7 @@ title: 5 Strategii Zwiększenia Sprzedaży w Małym Biznesie
 description: Sprawdzone metody na zwiększenie przychodów w małych i średnich
   przedsiębiorstwach. Praktyczne wskazówki od ekspertów.
 date: 2025-07-22
-author: Grzegorz Kowalski
+author: Grzegorz Kowalski xD
 tags:
   - sprzedaż
   - marketing
