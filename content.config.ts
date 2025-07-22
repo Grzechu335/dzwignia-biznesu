@@ -28,6 +28,21 @@ export default defineContentConfig({
           label: z.string()
         }))
       })
+    }),
+    blog: defineCollection({
+      source: 'blog/**',
+      type: 'page',
+      schema: z.object({
+        title: z.string(),
+        description: z.string(),
+        date: z.string(),
+        author: z.string(),
+        tags: z.array(z.string()),
+        image: z.string(),
+        draft: z.boolean(),
+        category: z.string(),
+        readTime: z.string()
+      })
     })
-  }
+  },
 })

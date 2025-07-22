@@ -11,5 +11,9 @@ const { data: homepage } = await useAsyncData('homepage', () => queryCollection(
             v-for="button in homepage?.hero.ctaButtons"
             :key="button.text"
         >{{ button.text }}</button>
+        <ContentRenderer
+            v-if="homepage"
+            :value="homepage?.body"
+        />
     </div>
 </template>

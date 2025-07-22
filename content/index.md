@@ -28,14 +28,3 @@ stats:
   - number: 5 lat
     label: Doświadczenia na rynku
 ---
-
-# Przekształć swój biznes w maszynę do zarabiania
-
-Czy Twój biznes osiąga pełny potencjał? Nasz zespół ekspertów pomoże Ci zidentyfikować możliwości wzrostu i wdrożyć strategie, które przyniosą wymierne rezultaty.
-
-## Dlaczego warto z nami współpracować?
-
-- **Doświadczenie** - Ponad 5 lat na rynku
-- **Skuteczność** - Średnio 150% wzrost przychodów naszych klientów
-- **Kompleksowość** - Pełne wsparcie w rozwoju biznesu
-- **Innowacyjność** - Wykorzystanie najnowszych technologii i trendów
