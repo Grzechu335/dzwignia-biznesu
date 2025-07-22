@@ -5,6 +5,11 @@ const { data: homepage } = await useAsyncData('homepage', () => queryCollection(
 
 <template>
     <div>
-        <pre>{{ homepage?.body.value }}</pre>
+        <h1>{{ homepage?.title }}</h1>
+        <p>{{ homepage?.description }}</p>
+        <button
+            v-for="button in homepage?.hero.ctaButtons"
+            :key="button.text"
+        >{{ button.text }}</button>
     </div>
 </template>
