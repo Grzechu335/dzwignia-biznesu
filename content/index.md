@@ -1,5 +1,5 @@
 ---
-title: Dźwignia Biznesu
+title: DUPADUPADUPADUPA
 subtitle: Zwiększ potencjał swojego biznesu
 description: Pomożemy Ci zoptymalizować procesy, zwiększyć sprzedaż i osiągnąć
   cele biznesowe dzięki sprawdzonym strategiom i nowoczesnym rozwiązaniom.
@@ -10,11 +10,11 @@ hero:
     - text: Rozpocznij współpracę
       link: /kontakt
       variant: primary
-    - text: Dowiedz się więcej
+    - text: ""
       link: /o-nas
       variant: secondary
   image:
-    src: /images/hero-business.jpg
+    src: /favicon.ico
     alt: Zespół biznesowy planujący strategię
   features:
     - Zwiększenie sprzedaży o 40%
@@ -28,3 +28,13 @@ stats:
   - number: 5 lat
     label: Doświadczenia na rynku
 ---
+
+# Przekształć swój biznes w maszynę do zarabiania
+
+Czy Twój biznes osiąga pełny potencjał? Nasz zespół ekspertów pomoże Ci zidentyfikować możliwości wzrostu i wdrożyć strategie, które przyniosą wymierne rezultaty.
+
+## Dlaczego warto z nami współpracować?
+
+- **Skuteczność** - Średnio 150% wzrost przychodów naszych klientów
+- **Kompleksowość** - Pełne wsparcie w rozwoju biznesu**Doświadczenie** - Ponad 5 lat na rynku
+- **Innowacyjność** - Wykorzystanie najnowszych technologii i trendów

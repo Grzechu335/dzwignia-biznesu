@@ -1,13 +1,18 @@
 ---
-title: "5 Strategii Zwiększenia Sprzedaży w Małym Biznesie"
-description: "Sprawdzone metody na zwiększenie przychodów w małych i średnich przedsiębiorstwach. Praktyczne wskazówki od ekspertów."
-date: "2025-07-22"
-author: "Grzegorz Kowalski"
-tags: ["sprzedaż", "marketing", "biznes", "strategie"]
-image: "/images/blog/sprzedaz-strategia.jpg"
+title: 5 Strategii Zwiększenia Sprzedaży w Małym Biznesie
+description: Sprawdzone metody na zwiększenie przychodów w małych i średnich
+  przedsiębiorstwach. Praktyczne wskazówki od ekspertów.
+date: 2025-07-22
+author: Grzegorz Kowalski
+tags:
+  - sprzedaż
+  - marketing
+  - biznes
+  - strategie
+image: /images/blog/sprzedaz-strategia.jpg
 draft: false
-category: "Marketing"
-readTime: "8 min"
+category: Marketing
+readTime: 8 min
 ---
 
 # 5 Strategii Zwiększenia Sprzedaży w Małym Biznesie
@@ -19,6 +24,7 @@ Każdy przedsiębiorca marzy o stałym wzroście sprzedaży. W dzisiejszym konku
 W erze cyfrowej, Twoja obecność w internecie to pierwszy kontakt z potencjalnymi klientami.
 
 ### Co zrobić:
+
 - **Stwórz profesjonalną stronę internetową** - to Twoja wizytówka 24/7
 - **Bądź aktywny w mediach społecznościowych** - tam, gdzie są Twoi klienci
 - **Inwestuj w SEO** - niech klienci Cię znajdą
@@ -30,6 +36,7 @@ W erze cyfrowej, Twoja obecność w internecie to pierwszy kontakt z potencjalny
 Klienci oczekują spersonalizowanego podejścia. Nie traktuj wszystkich jednakowo.
 
 ### Praktyczne wskazówki:
+
 - Segmentuj swoją bazę klientów
 - Dostosuj komunikację do grup docelowych
 - Wykorzystaj dane do lepszego zrozumienia potrzeb
@@ -48,21 +55,23 @@ const segmentKlientow = {
 Zadowoleni klienci to najlepsi ambasadorzy Twojej marki.
 
 ### Jak to zrobić:
+
 1. **Poproś o polecenie** w odpowiednim momencie
 2. **Nagradzaj polecających** - daj im powód do działania
 3. **Ułatw proces polecania** - jeden klik, nie formularz na 10 stron
 
-| Rodzaj Nagrody | Skuteczność | Koszt |
-|----------------|-------------|-------|
-| Rabat pieniężny | 85% | Średni |
-| Produkt gratis | 78% | Wysoki |
-| Punkty lojalnościowe | 65% | Niski |
+| Rodzaj Nagrody       | Skuteczność | Koszt  |
+| -------------------- | ----------- | ------ |
+| Rabat pieniężny      | 85%         | Średni |
+| Produkt gratis       | 78%         | Wysoki |
+| Punkty lojalnościowe | 65%         | Niski  |
 
 ## 4. Automatyzacja Marketingu
 
 Automatyzacja pozwala na skalowanie działań bez proporcjonalnego zwiększania kosztów.
 
 ### Narzędzia do rozważenia:
+
 - **Email marketing** - nurturing potencjalnych klientów
 - **Chatboty** - obsługa podstawowych zapytań
 - **CRM** - zarządzanie relacjami z klientami
@@ -72,6 +81,7 @@ Automatyzacja pozwala na skalowanie działań bez proporcjonalnego zwiększania 
 Bez pomiarów nie ma poprawy. Regularnie analizuj wyniki swoich działań.
 
 ### Kluczowe metryki:
+
 - **Koszt pozyskania klienta (CAC)**
 - **Wartość życiowa klienta (LTV)**
 - **Współczynnik konwersji**
@@ -88,7 +98,7 @@ Zwiększenie sprzedaży to proces, nie jednorazowa akcja. Wymaga systematycznego
 
 ---
 
-**Potrzebujesz pomocy w implementacji tych strategii?** 
+**Potrzebujesz pomocy w implementacji tych strategii?**
 
 Skontaktuj się z nami - pomożemy Ci zwiększyć sprzedaż w Twoim biznesie o minimum 40% w ciągu 6 miesięcy.
 
