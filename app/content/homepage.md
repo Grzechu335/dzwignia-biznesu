@@ -1,1 +1,0 @@
-# Dźwignia Biznesu
